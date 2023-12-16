@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family:'Handlee';
+    src: url('../fonts/Handlee-Regular.ttf');
+    font-weight: 300 48px;
+}
+@font-face {
+    font-family:'ShantellSans-Bold';
+    src: url('../fonts/ShantellSans-Bold.ttf');
+}
+@font-face {
+    font-family:'ShantellSans-Light';
+    src: url('../fonts/ShantellSans-Light.ttf');
+}
+@font-face {
+    font-family:'ShantellSans-Regular';
+    src: url('../fonts/ShantellSans-Regular.ttf');
+}
+@font-face {
+    font-family:'PixelifySans';
+    src: url('../fonts/PixelifySans-Regular.ttf');
+}
+@font-face {
+    font-family:'MacondoSwashCaps-Regular';
+    src: url('../fonts/MacondoSwashCaps-Regular.ttf');
+}
